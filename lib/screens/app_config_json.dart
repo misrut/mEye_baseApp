@@ -1,0 +1,3 @@
+String app_configPageJson = r'''
+{"data": {"routes": {"/home": {"actions": {"init": []}, "bgColor": "circles", "body": [{"component": "text", "text": "Home Screen", "size": 26, "color": "primary", "weight": 800}], "component": "page", "crossAxisAlignment": "center", "mainAxisAlignment": "center", "pageLayout": "default"}}}, "message": "Success", "status": "success"}
+''';

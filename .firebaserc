@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "default": "demoappbb"
+  },
+  "targets": {
+    "demoappbb": {
+      "hosting": {
+        "solar": [
+          "cf-demoappbb"
+        ],
+        "edu": [
+          "edu-demo"
+        ],
+        "ev": [
+          "ev-demo"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
